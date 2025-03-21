@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project analyzes and predicts insurance costs using Python and machine learning techniques. It aims to identify key factors influencing insurance charges and develop predictive models. The analysis is detailed in the Jupyter Notebook (`Project - Data Analytics for Insurance Cost Data Set.ipynb`), covering data handling, exploratory analysis, model building, and refinement.
+This project analyzes and predicts insurance costs using Python and machine learning techniques. It aims to identify key factors influencing insurance charges and develop predictive models.
 
 ## Project Objectives
 
